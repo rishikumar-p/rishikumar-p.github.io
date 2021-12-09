@@ -1,0 +1,81 @@
+.mainmenu {
+    text-align: center;
+    list-style-type: none;
+    margin: 20px;
+    padding: 10px;
+    width: 250px;
+    overflow: hidden;
+    background-color: #555;
+  }
+
+  h1 {
+    color:brown;
+    text-align: center;
+    padding: 50px;
+    font-size: 4em;
+    background-color: cadetblue;
+  }
+  
+ 
+  .mainMenuOption  {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .mainMenuOption:hover {
+    background-color: #111;
+  }
+
+  .back{
+    display: block;
+    color: white;
+    float: left;
+    list-style-type: none;
+    margin: 20px;
+    padding: 10px;
+    width: 100px;
+    overflow: hidden;
+    background-color: #555;
+  }
+
+  .back:hover{
+    background-color: black;
+  }
+ 
+  td {
+    padding: 20px;
+    margin: 20px;
+    width: 20%;
+  }
+
+  .image {
+    width: 80%;
+    height: 60%;
+    padding: 10px;
+    margin: 10px;
+    border: solid;
+    border-color: cadetblue;
+  }
+
+  img:hover {
+    width: 85%;
+    height: 65%;
+  }
+
+  .contactlinks > img{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+  }
+
+  .address{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:darkslategrey;
+  }
+  
+  
